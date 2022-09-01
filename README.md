@@ -1,4 +1,4 @@
-![MasterHead](https://image.emojisky.com/894/286894-middle.png)
+✈️
 ## Python Data Structures & Algorithms Project (Airline.py)
 ### Airport Managment System For:
 - **Scheduling Passengers for Flights**
